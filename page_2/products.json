@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Biquine",
+        "price": 200,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Biquine 2",
+        "price": 250,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Saida de praia",
+        "price": 290,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Biquine 3",
+        "price": 200,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Maiô ",
+        "price": 300,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" Maiô 2",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Saida de praia 2",
+        "price": 200,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Saida de praia 3",
+        "price": 200,
+        "image": "image/8.png"
+    }
+
+]
